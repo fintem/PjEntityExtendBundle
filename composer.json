@@ -1,5 +1,5 @@
 {
-  "name": "fintem/entity-extend-bundle",
+  "name": "pjarmalavicius/entity-extend-bundle",
   "type": "symfony-bundle",
   "description": "Easy doctrine entities extending",
   "keywords": ["doctrine extend mapping"],
